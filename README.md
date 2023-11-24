@@ -1,7 +1,7 @@
 # Python TDD
 
 ## Slides:
-[Slides](https://external.ink?to=/placeholder.com)
+[Slides](https://github.com/atingupta2005/python-tdd/blob/main/slides.pdf)
 
 
 ## How to run tests locally
