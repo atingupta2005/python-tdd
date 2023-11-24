@@ -7,14 +7,17 @@ class StringExercise:
         """
         Reverses order of characters in string input_str.
         """
-        return None
+        #return None
+        return input_str[::-1]
+
 
     def is_english_vowel(self, character):
         """
         Returns True if character is an english vowel
         and False otherwise.
         """
-        return None
+        #return None
+        return character.lower() in "a e i o u".split()
 
     def find_longest_word(self, sentence):
         """
@@ -22,6 +25,7 @@ class StringExercise:
         In case there are several, return the first.
         """
         return None
+
 
     def get_word_lengths(self, text):
         """
